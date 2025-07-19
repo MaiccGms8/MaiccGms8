@@ -1,21 +1,31 @@
-# Olá, eu sou Maicon Gomes!
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+</div>
 
-Cursando Ciência de Dados na Universidade Estadual da Paraíba (UEPB)  
-Interesse em Análise de Dados e Machine Learning  
+###
 
-## Informações de contato: 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maicongomes.maicongomes" />
+</div>
 
-Email: maicon.henrique147@gmail.com  
+###
+
+<h1 align="center">👋 Olá, eu sou Maicon Gomes!</h1>
+
+### 👨‍💻 Sobre mim
+
+🎓 Cursando Ciência de Dados na Universidade Estadual da Paraíba (UEPB)  
+📊 Interesse em Análise de Dados e Machine Learning  
+🎓 Bolsista pela FAPESQ - Fundação de Apoio à Pesquisa do Estado da Paraíba  
+📚 Formação complementar em Análise de Dados e Soft Skills pela Edumi  
+
+📫 **Informações de contato:**  
+📧 Email: maicon.henrique147@gmail.com  
 
 ---
 
-## Sobre mim
-
-Sou entusiasta de tecnologia e dados, sempre buscando aprender novas ferramentas e desenvolver projetos práticos que ajudem a resolver problemas do mundo real. Atualmente, também estou cursando uma formação complementar em Análise de Dados e Soft Skills pela Edumi, e sou bolsista da FAPESQ - Fundação de Apoio à Pesquisa do Estado da Paraíba.
-
----
-
-## Tecnologias que estou aprendendo
+### 🛠 Tecnologias que estou aprendendo:
 
 - Python, Pandas, NumPy  
 - SQL, Power BI  
@@ -24,30 +34,28 @@ Sou entusiasta de tecnologia e dados, sempre buscando aprender novas ferramentas
 
 ---
 
-## Em desenvolvimento
+### 🚀 Em desenvolvimento
 
 - Formação complementar em Análise de Dados e Soft Skills (Edumi)  
 - Projetos pessoais de análise de dados
 
-----
+---
 
-#  Hello, I'm Maicon Gomes!
+<h1 align="center">👋 Hello, I'm Maicon Gomes!</h1>
 
- Data Science undergraduate student at the State University of Paraíba (UEPB)  
- Interested in Data Analysis and Machine Learning  
+### 👨‍💻 About Me
 
-**Contact information:**  
-Email: maicon.henrique147@gmail.com  
+🎓 Data Science undergraduate student at the State University of Paraíba (UEPB)  
+📊 Interested in Data Analysis and Machine Learning  
+🎓 FAPESQ Scholarship Holder (Paraíba State Research Support Foundation)  
+📚 Complementary course in Data Analysis and Soft Skills (Edumi)  
+
+📫 **Contact information:**  
+📧 Email: maicon.henrique147@gmail.com  
 
 ---
 
-## About Me
-
-I'm passionate about technology and data, always looking to learn new tools and build practical projects that help solve real-world problems. I'm currently taking a complementary course in Data Analysis and Soft Skills through Edumi and working as a FAPESQ scholarship holder.
-
----
-
-## Technologies I'm learning
+### 🛠 Technologies I'm learning:
 
 - Python, Pandas, NumPy  
 - SQL, Power BI  
@@ -56,8 +64,15 @@ I'm passionate about technology and data, always looking to learn new tools and 
 
 ---
 
-## Currently working on
+### 🚀 Currently working on
 
 - Complementary course in Data Analysis and Soft Skills (Edumi)  
 - Personal data analysis projects
-  
+
+---
+
+<h3 align="center">🔥 My GitHub Stats</h3>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maicongomes&locale=pt_BR&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+</div>
