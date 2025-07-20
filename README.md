@@ -17,7 +17,10 @@
 📧 Email: maicon.henrique147@gmail.com  
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  <a href='https://www.linkedin.com/in/maicon-henrique-de-oliveira-gomes-734579260/'>
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
 </div>
 
@@ -39,6 +42,8 @@
 - Projetos pessoais de análise de dados
 
 ---
+
+###
 
 <h1 align="center">👋 Hello, I'm Maicon Gomes!</h1>
 
