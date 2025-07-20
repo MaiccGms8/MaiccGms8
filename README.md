@@ -48,7 +48,6 @@
 ---
 
 <br>
-<br>
 
 <h1 align="center">👋 Hello, I'm Maicon Gomes!</h1>
 
