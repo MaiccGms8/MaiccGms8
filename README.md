@@ -12,6 +12,8 @@
 📊 Interesse em Análise de Dados e Machine Learning  
 🎓 Bolsista pela FAPESQ - Fundação de Apoio à Pesquisa do Estado da Paraíba  
 📚 Formação complementar em Análise de Dados e Soft Skills pela Edumi  
+📚 Formação complementar em Desenvolvimento de Software pelo Programa Desenvolve  
+
 
 📫 **Informações de contato:**  
 📧 Email: maicon.henrique147@gmail.com  
@@ -37,12 +39,14 @@
 - SQL, Power BI  
 - Git & GitHub  
 - Excel, Google Sheets
+- HTML, CSS e JavaScript
 
 ---
 
 ### 🚀 Em desenvolvimento
 
-- Formação complementar em Análise de Dados e Soft Skills (Edumi)  
+- Formação complementar em Análise de Dados e Soft Skills (Edumi)
+- Formação complementar em Desenvolvimento de Software (Programa Desenvolve)
 - Projetos pessoais de análise de dados
 
 ---
@@ -56,7 +60,8 @@
 🎓 Data Science undergraduate student at the State University of Paraíba (UEPB)  
 📊 Interested in Data Analysis and Machine Learning  
 🎓 FAPESQ Scholarship Holder (Paraíba State Research Support Foundation)  
-📚 Complementary course in Data Analysis and Soft Skills (Edumi)  
+📚 Complementary course in Data Analysis and Soft Skills (Edumi)
+📚 Complementary training in Software Development through the (Desenvolve Program)
 
 📫 **Contact information:**  
 📧 Email: maicon.henrique147@gmail.com  
@@ -82,12 +87,15 @@
 - SQL, Power BI  
 - Git & GitHub  
 - Excel, Google Sheets
+- HTML, CSS e JavaScript
+
 
 ---
 
 ### 🚀 Currently working on
 
-- Complementary course in Data Analysis and Soft Skills (Edumi)  
+- Complementary course in Data Analysis and Soft Skills (Edumi)
+- Complementary training in Software Development through the Desenvolve Program
 - Personal data analysis projects
 
 ---
