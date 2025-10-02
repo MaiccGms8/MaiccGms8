@@ -63,6 +63,7 @@
 📚 Complementary course in Data Analysis and Soft Skills (Edumi)
 📚 Complementary training in Software Development through the (Desenvolve Program)
 
+
 📫 **Contact information:**  
 📧 Email: maicon.henrique147@gmail.com  
 📧 Linkedln: https://www.linkedin.com/in/maicon-henrique-de-oliveira-gomes-734579260/
