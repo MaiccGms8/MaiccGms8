@@ -60,7 +60,8 @@
 🎓 Data Science undergraduate student at the State University of Paraíba (UEPB)  
 📊 Interested in Data Analysis and Machine Learning  
 🎓 FAPESQ Scholarship Holder (Paraíba State Research Support Foundation)  
-📚 Complementary course in Data Analysis and Soft Skills: Edumi
+📚 Complementary course in Data Analysis and Soft Skills: Edumi 
+
 📚 Complementary training in Software Development through the: Desenvolve Program
 
 
