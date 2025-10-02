@@ -61,7 +61,6 @@
 📊 Interested in Data Analysis and Machine Learning  
 🎓 FAPESQ Scholarship Holder (Paraíba State Research Support Foundation)  
 📚 Complementary course in Data Analysis and Soft Skills (Edumi)
-
 📚 Complementary training in Software Development through the (Desenvolve Program)
 
 
