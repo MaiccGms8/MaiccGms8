@@ -1,109 +1,110 @@
-<div align="center">
+<div align="center"> 
   <img src="https://visitor-badge.laobi.icu/badge?page_id=maicongomes.maicongomes" />
 </div>
 
-###
+<h1 align="center">
+  👋 Maicon Gomes | Data Science Student & Aspiring Data Analyst
+</h1>
 
-<h1 align="center">👋 Olá, eu sou Maicon Gomes!</h1>
+<p align="center">
+  Transformando dados em insights estratégicos 📊
+</p>
 
-### 👨‍💻 Sobre mim
+---
 
-🎓 Cursando Ciência de Dados na Universidade Estadual da Paraíba (UEPB)  
-📊 Interesse em Análise de Dados e Machine Learning  
-🎓 Bolsista pela FAPESQ - Fundação de Apoio à Pesquisa do Estado da Paraíba  
-📚 Formação complementar em Análise de Dados e Soft Skills pela Edumi  
-📚 Formação complementar em Desenvolvimento de Software pelo Programa Desenvolve  
+## 👨‍💻 Sobre mim
 
+🎓 Graduando em **Ciência de Dados** na Universidade Estadual da Paraíba (UEPB)  
+🎓 Bolsista pela **FAPESQ - Fundação de Apoio à Pesquisa do Estado da Paraíba**  
+📊 Foco em **Análise de Dados, Estatística Aplicada e Machine Learning**  
+🚀 Interesse em tecnologia, inovação e resolução de problemas com dados  
 
-📫 **Informações de contato:**  
-📧 Email: maicon.henrique147@gmail.com  
-📧 Linkedln: https://www.linkedin.com/in/maicon-henrique-de-oliveira-gomes-734579260/
+---
+
+## 🎯 Objetivo
+
+Busco oportunidades de **estágio ou projetos em Análise de Dados**, onde eu possa aplicar conhecimentos em Python, SQL e visualização de dados para gerar insights que apoiem a tomada de decisão.
+
+---
+
+## 🛠 Tech Stack
+
+### 📊 Data & Analytics
+- Python (Pandas, NumPy)
+- SQL
+- Power BI
+- Excel & Google Sheets
+
+### 💻 Desenvolvimento
+- HTML, CSS, JavaScript
+
+### ⚙️ Ferramentas
+- Git & GitHub
+- VS Code
+- Jupyter Notebook
+
+---
+
+## 📈 Atualmente estudando
+
+- Estatística aplicada a dados  
+- Análise Exploratória de Dados (EDA)  
+- Modelos de Machine Learning  
+- Visualização de Dados  
+
+---
+
+## 📌 Projetos em Destaque
+
+🔹 **Análise Exploratória de Dados com Python**  
+Limpeza, tratamento e geração de insights a partir de dados reais.
+
+🔹 **Dashboard Interativo no Power BI**  
+Visualização estratégica de métricas e KPIs.
+
+🔹 **Análise com SQL (Comparações e Consultas Avançadas)**  
+Criação de queries para extração e interpretação de dados estruturados.
+
+*(Em constante atualização 🚀)*
+
+---
+
+## 🔥 GitHub Stats
 
 <div align="center">
-  <a href='https://www.linkedin.com/in/maicon-henrique-de-oliveira-gomes-734579260/'>
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=maicongomes&show_icons=true&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maicongomes&layout=compact&theme=dark"/>
+</div>
+
+---
+
+## 📫 Contato
+
+<div align="center">
+  <a href='https://www.linkedin.com/in/maicon-henrique-gomes147/' target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/>
   </a>
 
   <a href="mailto:maicon.henrique147@gmail.com">
-   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+    <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28"/>
   </a>
- 
 </div>
 
-
 ---
 
-### 🛠 Tecnologias que estou aprendendo:
+# 🌎 English Version
 
-- Python, Pandas, NumPy  
-- SQL, Power BI  
-- Git & GitHub  
-- Excel, Google Sheets
-- HTML, CSS e JavaScript
-
----
-
-### 🚀 Em desenvolvimento
-
-- Formação complementar em Análise de Dados e Soft Skills: Edumi
-- Formação complementar em Desenvolvimento de Software: Programa Desenvolve
-- Projetos pessoais de análise de dados
-
----
-
-<br>
-
-<h1 align="center">👋 Hello, I'm Maicon Gomes!</h1>
-
-### 👨‍💻 About Me
+## 👋 Hello! I'm Maicon Gomes
 
 🎓 Data Science undergraduate student at the State University of Paraíba (UEPB)  
-📊 Interested in Data Analysis and Machine Learning  
-🎓 FAPESQ Scholarship Holder (Paraíba State Research Support Foundation)  
-📚 Complementary course in Data Analysis and Soft Skills: Edumi 
+🎓 FAPESQ Scholarship Holder  
+📊 Focused on Data Analysis, Applied Statistics and Machine Learning  
+🚀 Passionate about technology and data-driven decision making  
 
-📚 Complementary training in Software Development through the: Desenvolve Program
+### 🎯 Career Goal
 
-
-📫 **Contact information:**  
-📧 Email: maicon.henrique147@gmail.com  
-📧 Linkedln: https://www.linkedin.com/in/maicon-henrique-de-oliveira-gomes-734579260/
-
-<div align="center">
-  <a href='https://www.linkedin.com/in/maicon-henrique-de-oliveira-gomes-734579260/'>
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-
-  <a href="mailto:maicon.henrique147@gmail.com">
-   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
-  </a>
- 
-</div>
-
+Seeking internship opportunities in **Data Analysis**, where I can apply Python, SQL and data visualization skills to support business insights and strategic decisions.
 
 ---
 
-### 🛠 Technologies I'm learning:
-
-- Python, Pandas, NumPy  
-- SQL, Power BI  
-- Git & GitHub  
-- Excel, Google Sheets
-- HTML, CSS e JavaScript
-
-
----
-
-### 🚀 Currently working on
-
-- Complementary course in Data Analysis and Soft Skills (Edumi)
-- Complementary training in Software Development through the Desenvolve Program
-- Personal data analysis projects
-
----
-
-<h3 align="center">🔥 My GitHub Stats</h3>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maicongomes&locale=pt_BR&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-</div>
+💡 Always learning. Always building.
