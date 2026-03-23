@@ -69,15 +69,6 @@ Criação de queries para extração e interpretação de dados estruturados.
 
 ---
 
-## 🔥 GitHub Stats
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=maicongomes&show_icons=true&theme=dark"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maicongomes&layout=compact&theme=dark"/>
-</div>
-
----
-
 ## 📫 Contato
 
 <div align="center">
