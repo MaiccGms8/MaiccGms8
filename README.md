@@ -1,29 +1,26 @@
-<div align="center"> 
+<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=maicongomes.maicongomes" />
-</div>
 
-<h1 align="center">
-  👋 Maicon Gomes | Data Science Student & Aspiring Data Analyst
-</h1>
+  # 👋 Maicon Gomes | Data Science Student & Aspiring Data Analyst
 
-<p align="center">
   Transformando dados em insights estratégicos 📊
-</p>
+</div>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-🎓 Graduando em **Ciência de Dados** na Universidade Estadual da Paraíba (UEPB)
-🎓 Bolsista pela **FAPESQ - Fundação de Apoio à Pesquisa do Estado da Paraíba**
-📊 Foco em **Análise de Dados, Estatística Aplicada e Machine Learning**  
-🚀 Interesse em tecnologia, inovação e resolução de problemas com dados
+* 🎓 Graduando em **Ciência de Dados** na Universidade Estadual da Paraíba (UEPB)
+* 🎓 Bolsista pela **FAPESQ - Fundação de Apoio à Pesquisa do Estado da Paraíba**
+* 📊 Foco em **Análise de Dados, Estatística Aplicada e Machine Learning**
+* 🚀 Interesse em tecnologia, inovação e resolução de problemas com dados
 
 ---
 
 ## 🎯 Objetivo
 
-Busco oportunidades de **estágio em Análise de Dados ou Ciência de Dados**. Tenho foco em aplicar Python, SQL e técnicas de visualização para otimizar processos, monitorar KPIs e apoiar a tomada de decisão baseada em dados
+**Busco oportunidades de estágio em Análise de Dados ou Ciência de Dados.** Tenho foco em aplicar Python, SQL e técnicas de visualização para otimizar processos, monitorar KPIs e apoiar a tomada de decisão baseada em dados.
+
 ---
 
 ## 🛠 Tech Stack
